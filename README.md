@@ -7,7 +7,7 @@ Hi there 👋, I'm Shaik Mahaboob Jani!
 💬 Ask me about [HTML, CSS, JavaScript, React].
 🎧 I love listening to  music.
 📫 You can reach me at [skmabujani521@gmail.com] or 
- LinkedIn : <a href="https://www.linkedin.com/in/mahaboobjani/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+            LinkedIn : <a href="https://www.linkedin.com/in/mahaboobjani/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?            style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 🚀 Skills
