@@ -8,6 +8,10 @@ Hi there 👋, I'm Shaik Mahaboob Jani!
 🎧 I love listening to  music.
 📫 You can reach me at [skmabujani521@gmail.com] or 
             LinkedIn : <a href="https://www.linkedin.com/in/mahaboobjani/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?            style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+            
+             I'm a Frontend Developer  with a passion for building responsive and user-friendly web applications. I have experience in HTML, CSS, and JavaScript, and I'm currently learning React. I have completed several online courses and personal projects to strengthen my skills in Frontend Development. I'm eager to collaborate with others and contribute to innovative projects that make a positive impact.
+            
+            I'm passionate about building accessible and performant web applications that provide an excellent user experience. In my free time, I enjoy contributing to open source projects and experimenting with new technologies.
 
 
 🚀 Skills
